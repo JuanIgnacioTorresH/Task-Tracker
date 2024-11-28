@@ -1,0 +1,13 @@
+{
+  "name": "task-tracker",
+  "version": "1.0.0",
+  "description": "Task tracker through CLI",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Juan Ignacio Torres",
+  "license": "ISC",
+  "bin": {
+    "task-cli": "./index.js"
+  }
+}
